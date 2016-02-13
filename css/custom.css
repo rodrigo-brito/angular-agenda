@@ -1,0 +1,15 @@
+.calculator {
+	margin-top: 20px;
+	border: 1px solid #aaa;
+	background-color: #ddd;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.calculator:after {
+	clear: both;
+}
+
+.btn-calculator {
+	margin: 5px 0;
+}
