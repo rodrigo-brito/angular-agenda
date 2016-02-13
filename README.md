@@ -2,4 +2,4 @@
 
 Uma simples agenda feita com Angular JS
 
-<img src="screenshot.jpg">
+<img src="img/screenshot.png">
